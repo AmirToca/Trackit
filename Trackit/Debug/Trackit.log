@@ -1,2 +1,3 @@
 ﻿  main.cpp
+D:\Trackit\Trackit\main.cpp(76,28): warning C4018: '<': signed/unsigned mismatch
   Trackit.vcxproj -> D:\Trackit\Debug\Trackit.exe

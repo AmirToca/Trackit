@@ -1,7 +1,18 @@
 ﻿  main.cpp
+D:\Trackit\Trackit\main.cpp(55,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Trackit\Trackit\main.cpp(55,42): warning C4244:         with
+D:\Trackit\Trackit\main.cpp(55,42): warning C4244:         [
+D:\Trackit\Trackit\main.cpp(55,42): warning C4244:             T=float
+D:\Trackit\Trackit\main.cpp(55,42): warning C4244:         ]
+D:\Trackit\Trackit\main.cpp(55,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Trackit\Trackit\main.cpp(55,31): warning C4244:         with
+D:\Trackit\Trackit\main.cpp(55,31): warning C4244:         [
+D:\Trackit\Trackit\main.cpp(55,31): warning C4244:             T=float
+D:\Trackit\Trackit\main.cpp(55,31): warning C4244:         ]
+D:\Trackit\Trackit\main.cpp(76,29): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
+  1 of 285 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Trackit.vcxproj -> D:\Trackit\Release\Trackit.exe
